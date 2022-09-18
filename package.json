@@ -9,9 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.3.2",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@stripe/stripe-js": "^1.36.0",
+    "framer-motion": "^7.3.5",
+    "graphql": "^16.6.0",
+    "graphql-request": "^5.0.0",
     "next": "12.3.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-icons": "^4.4.0",
+    "stripe": "^10.10.0"
   },
   "devDependencies": {
     "eslint": "8.23.1",
